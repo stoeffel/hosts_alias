@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+# -*- ruby -*-
+
+require 'hosts_alias'
+Hosts_alias.new ARGV
